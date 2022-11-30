@@ -31,8 +31,8 @@ global.botname = '𝐱𝐢𝐳𝐨☆' //ubah jadi nama bot mu, note tanda ' gau
 global.footer = '𝐱𝐢𝐳𝐨☆' //ubah jadi nama mu, note tanda ' gausah di hapus!
 //=================================================//
 // Other
-global.owner = ['6288980106301'] // ubah aja pake nomor lu
-global.premium = ['6288980106301'] // ubah aja pake nomor lu
+global.owner = ['6289520604246'] // ubah aja pake nomor lu
+global.premium = ['6289520604246'] // ubah aja pake nomor lu
 global.packname = '𝐱𝐢𝐳𝐨☆' // ubah aja
 global.ownerr = ['𝐱𝐢𝐳𝐨☆'] // ubaha aja
 global.author = '𝐱𝐢𝐳𝐨☆' //ubah aja
